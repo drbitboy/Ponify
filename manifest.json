@@ -16,4 +16,8 @@
     }
   ]
 
+, "browser_specific_settings":
+  { "gecko": { "id": "ponify@gmail.com" }
+  }
+
 }
