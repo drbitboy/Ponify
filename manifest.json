@@ -1,0 +1,19 @@
+{ "manifest_version": 2
+, "name": "Ponify"
+, "version": "1.0"
+
+, "description": "A firefox extension that replaces slack's unread image tag's src with the Pony image."
+
+, "icons":
+  { "48": "icons/48x48.png"
+  , "96": "icons/96x96.png"
+  }
+
+, "content_scripts":
+  [ { "matches": ["https://app.slack.com/client/*/unreads"]
+    , "js": ["ponify.js"]
+    , "run_at": "document_end"
+    }
+  ]
+
+}
