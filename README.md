@@ -1,5 +1,5 @@
 # Ponify
-A Firefox extension that ensures Slack's all-read image is always the pony
+A Firefox extension that ensures Slack's all-read image is always the pony after a Refresh
 
 ## Installation
 Loading extensions from a file:
