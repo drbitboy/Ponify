@@ -5,8 +5,8 @@
 , "description": "A firefox extension that replaces slack's unread image tag's src with the Pony image."
 
 , "icons":
-  { "48": "icons/48x48.png"
-  , "96": "icons/96x96.png"
+  { "48": "icons/48x48.ico"
+  , "96": "icons/96x96.ico"
   }
 
 , "content_scripts":
