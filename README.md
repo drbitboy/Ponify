@@ -14,4 +14,6 @@ Install the extension into Firefox and refresh the browser for extension to take
 ## Credits
 Developed by drbitboy, from the examples of inumerable others.
 
-![](https://a.slack-edge.com/80588/img/unread/empty/google/1f434.png)
+## Screenshot
+
+![](https://github.com/drbitboy/Ponify/raw/master/img/pony_example.png)
